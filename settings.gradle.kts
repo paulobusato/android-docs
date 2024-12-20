@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Android Docs"
 include(":app")
+include(":viewapp")
