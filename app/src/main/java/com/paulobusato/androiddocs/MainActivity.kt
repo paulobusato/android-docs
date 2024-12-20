@@ -13,6 +13,8 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import com.paulobusato.androiddocs.ui.theme.AndroidDocsTheme
 
+// https://developer.android.com/quick-guides/content/support-chromebooks-in-your-camera-app
+
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
